@@ -7,3 +7,4 @@
 
 ## Day Two(5/25/2024)
 - numbers
+- Type casting
