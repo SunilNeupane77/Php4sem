@@ -34,7 +34,29 @@ echo str_replace("Dolly Chai Wala","sunil Neupane",$replace);
  //8.The trim() removes any whitespace from the beginning or the end
  $trim="   yes ko space trim gar chito   ";
  echo trim($trim);
- 
+
+ // Converting String into Array
+ // 9. The PHP explode() function splits a string into an array.
+ $x="Hello Sunil Neupane";
+ $y=explode("",$x);
+ //Use print_r() function to display the result
+ print_r($y);
+
+ //10 To Concatenate or combine To String we can use (.){dot} Operator
+ $str1="sunil";
+ $str2="Neupane";
+ $str3=$str1.$str2;
+ echo $str3;
+ // This Function concatenates two string without space between them
+ // For space 
+ $str3=$str1." ".$str2;
+
+ //11. We can Return the range of character by wsing substr() function
+ // We can specify the start index and the number of characters that we want to raturn
+
+ $newvar="Hello Sunil Neupane";
+ echo substr($newvar,6,5);
+
 
  
 ?>
