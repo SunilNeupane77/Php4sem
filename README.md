@@ -3,6 +3,7 @@
 - file creation
 - datatype
 - String
+- variable
 
 ## Day Two(5/25/2025)
 - numbers
