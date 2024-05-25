@@ -9,3 +9,4 @@
 - numbers
 - type casting
 - math
+- switch
