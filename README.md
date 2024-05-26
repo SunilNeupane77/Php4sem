@@ -10,3 +10,7 @@
 - type casting
 - math
 - switch
+- function
+
+## Day Three(5/26/2024)
+- arrays
