@@ -21,3 +21,4 @@
 - associative array
 - date
 - forms
+- connecting and using MYSQL database
