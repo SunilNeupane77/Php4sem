@@ -30,3 +30,4 @@
 - constructor in PHP
 - distructor in PHP
 - access modifiers
+- inheritance
