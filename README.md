@@ -24,10 +24,4 @@
 - connecting and using MYSQL database
 - creating database entry
 
-## Day Four(5/27/2024) | ## Day Five (5/28/2024)
-
-                             |
-                             |
-                             |
-                             |
-                             |
+## Day Four(5/27/2024)
