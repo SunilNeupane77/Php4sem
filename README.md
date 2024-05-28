@@ -33,3 +33,5 @@
 - inheritance
 
 ## Day Five(5/28/2024)
+
+- interface
