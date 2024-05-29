@@ -36,3 +36,7 @@
 
 - interface
 - trait in PHP
+
+## Day six (5/29/2024)
+
+- static method
