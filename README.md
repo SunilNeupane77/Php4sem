@@ -37,6 +37,7 @@
 - interface
 - trait in PHP
 
-## Day six (5/29/2024)
+## Day six (5/29or30/2024)
 
 - static method
+- cookies
